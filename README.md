@@ -16,7 +16,7 @@ This project analyzes sales performance, customer behavior, product performance,
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 The goal was to transform raw transactional data into a structured analytical workbook and management dashboard that provides clear insights for business decision-making.
 
 The project follows the complete data analysis process:
@@ -25,7 +25,7 @@ The project follows the complete data analysis process:
 
 ---
 
-## 🎯 Business Questions
+##  Business Questions
 
 The analysis was designed to answer questions such as:
 
@@ -42,7 +42,7 @@ The analysis was designed to answer questions such as:
 
 ---
 
-# 📊 Dashboard
+# Dashboard
 
 The dashboard provides a management-level overview of business performance.
 
@@ -62,31 +62,25 @@ The dashboard provides a management-level overview of business performance.
 - Returns
 - Interactive filters
 
-### Full Dashboard
-
-<p align="center">
-  <img src="images/dashboard.png" alt="Full Sales Performance Dashboard" width="100%">
-</p>
-
 ---
 
-# 📈 Key Performance Indicators
+# Key Performance Indicators
 
 | KPI | Result |
 |---|---:|
-| 💰 Gross Sales | ₦125.15M |
-| 💵 Net Sales | ₦118.56M |
-| 📦 Units Sold | 26,765 |
-| 🧾 Orders | 1,500 |
-| 💸 COGS | ₦74.68M |
-| 📈 Gross Profit | ₦43.88M |
-| 📊 Gross Margin | 37.0% |
-| 🏷️ Discounts | ₦5.95M |
-| 🔄 Returns | ₦631.71K |
+|  Gross Sales | ₦125.15M |
+|  Net Sales | ₦118.56M |
+|  Units Sold | 26,765 |
+|  Orders | 1,500 |
+|  COGS | ₦74.68M |
+|  Gross Profit | ₦43.88M |
+|  Gross Margin | 37.0% |
+|  Discounts | ₦5.95M |
+|  Returns | ₦631.71K |
 
 ---
 
-# 🔍 Key Insights
+#  Key Insights
 
 ## 1. Sales Performance
 
@@ -97,7 +91,7 @@ April recorded the strongest monthly net sales at approximately **₦18.73M**, w
 The dashboard makes it possible to compare monthly performance and identify periods of strong and weak sales.
 
 ---
-
+![Inventory Management Dashboard](sales-analysis.png)
 ## 2. Product Category Performance
 
 **Fragrance** was the highest-performing category by net sales, generating approximately **₦25.67M**.
@@ -120,7 +114,7 @@ Fragrance also recorded a gross margin of approximately **43.3%**.
 
 The highest-performing product by net sales was:
 
-### 🥇 Vanilla Amber Perfume 100ml
+### Vanilla Amber Perfume 100ml
 
 | Metric | Result |
 |---|---:|
@@ -133,7 +127,7 @@ This demonstrates why product-level analysis is important when identifying major
 
 ---
 
-# 🛒 Sales Channel Analysis
+# Sales Channel Analysis
 
 Wholesale was the dominant sales channel.
 
@@ -143,7 +137,7 @@ Wholesale was the dominant sales channel.
 | Retail Store | ₦11.85M | 10.0% |
 | Online | ₦6.60M | 5.6% |
 
-### 💡 Insight
+### Insight
 
 Wholesale generated the majority of revenue.
 
@@ -151,7 +145,7 @@ However, Retail Store and Online channels provide opportunities for the business
 
 ---
 
-# 👥 Customer Analysis
+# Customer Analysis
 
 Customer analysis was used to understand revenue contribution across different customer types.
 
@@ -161,7 +155,7 @@ Customer analysis was used to understand revenue contribution across different c
 | Wholesale | ₦32.11M |
 | Retail | ₦18.45M |
 
-### 💡 Insight
+### Insight
 
 Distributors generated the largest share of revenue.
 
@@ -169,7 +163,7 @@ This highlights the importance of managing high-value customer relationships whi
 
 ---
 
-# 🌍 Location Analysis
+# Location Analysis
 
 Location analysis was used to compare sales performance across different business locations.
 
@@ -179,7 +173,7 @@ Surulere recorded strong growth between the periods analyzed, increasing by appr
 
 ---
 
-# 🏷️ Discounts & Returns
+# Discounts & Returns
 
 The analysis also examined discounts and product returns.
 
@@ -199,7 +193,7 @@ These metrics can help management evaluate pricing, promotional activities, prod
 
 ---
 
-# 🧹 Data Cleaning & Preparation
+# Data Cleaning & Preparation
 
 Before analysis, the dataset was prepared and validated to improve consistency and reliability.
 
@@ -235,3 +229,54 @@ KPIs
 Dashboard
     ↓
 Business Insights
+
+## Data Cleaning & Preparation
+
+Based on the analysis, management could:
+
+- Continue monitoring Fragrance and Body Care because of their strong revenue contribution.
+- Review the profitability of high-volume products with lower margins.
+- Explore ways to increase Online and Retail Store sales.
+- Monitor discounts closely, particularly within Fragrance.
+- Investigate the higher return rate within Body Care.
+- Maintain strong relationships with high-value distributor customers.
+- Monitor customer concentration and dependency on a small number of large customers.
+- Use product-level profitability rather than sales volume alone when making inventory and marketing decisions.
+
+## What I Learned
+
+This project strengthened my ability to move from raw data to business recommendations.
+
+Key areas I practiced include:
+
+- Cleaning and structuring messy sales data
+- Building reusable Excel calculations
+- Creating business KPIs
+- Using lookup and conditional aggregation formulas
+- Analyzing sales trends
+- Comparing customer segments
+- Measuring product profitability
+- Building management dashboards
+- Translating numbers into actionable business recommendations
+
+# About Me
+
+Funke Bolarin
+
+Inventory Control Professional & Data Analyst in Training
+
+I have a background in inventory control, logistics, FMCG, and retail operations, and I am transitioning into data analytics.
+
+My analytics toolkit includes:
+
+Excel | Google Sheets | SQL | Power BI | Data Cleaning | Data Analysis | Dashboard Development
+
+I enjoy using data to solve practical business problems, particularly in inventory, sales, operations, and supply chain environments.
+
+Connect With Me
+LinkedIn: https://www.linkedin.com/in/funkebolarinval/?isSelfProfile=true)
+GitHub:[ Funke-B](https://funke-b.github.io/Funke-Val-B.github.io/)
+⭐ Project Status
+
+Completed
+
