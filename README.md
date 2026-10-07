@@ -211,6 +211,7 @@ The process included:
 
 ### Data Flow
 
+
 ```text
 Raw Data
     ↓
@@ -229,6 +230,7 @@ KPIs
 Dashboard
     ↓
 Business Insights
+```
 
 ## Data Cleaning & Preparation
 
@@ -274,9 +276,10 @@ Excel | Google Sheets | SQL | Power BI | Data Cleaning | Data Analysis | Dashboa
 I enjoy using data to solve practical business problems, particularly in inventory, sales, operations, and supply chain environments.
 
 Connect With Me
-LinkedIn: https://www.linkedin.com/in/funkebolarinval/?isSelfProfile=true)
+LinkedIn:[Linkedin](https://www.linkedin.com/in/funkebolarinval/?isSelfProfile=true)
 GitHub:[ Funke-B](https://funke-b.github.io/Funke-Val-B.github.io/)
 ⭐ Project Status
+
 
 Completed
 
