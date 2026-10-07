@@ -20,9 +20,6 @@ This project analyzes sales performance, customer behavior, product performance,
 ---
 
 ## 📌 Project Overview
-
-This project analyzes sales performance, product performance, customer behavior, sales channels, and location performance for a beauty and personal-care business.
-
 The goal was to transform raw transactional data into a structured analytical workbook and management dashboard that provides clear insights for business decision-making.
 
 The project follows the complete data analysis process:
