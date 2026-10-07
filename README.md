@@ -1,7 +1,7 @@
 # Sales Performance & Customer Analytics Dashboard
 This project analyzes sales performance, customer behavior, product performance, sales channels, and location-level performance for a beauty and personal-care business.
 
-![dashboard](dashboard.png)
+![Inventory Management Dashboard](dashboard.png)
 
 <p align="center">
   <strong>Turning raw sales data into clear business insights and actionable decisions.</strong>
