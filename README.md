@@ -3,7 +3,7 @@ This project analyzes sales performance, customer behavior, product performance,
 
 
 <p align="center">
-  <img src="images/dashboard.png" alt="Sales Performance and Customer Analytics Dashboard" width="100%">
+  <img src="dashboard.png" alt="Sales Performance and Customer Analytics Dashboard" width="100%">
 </p>
 
 <p align="center">
